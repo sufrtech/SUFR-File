@@ -1,0 +1,18 @@
+Upload these files and chmod to 0777.
+You _MUST_ otherwise...it just wont work.
+Edit the config for your own likeing
+
+Edit mail.php and change "youremail@email.org" to your email
+
+You may change the file types allowed in upload.php
+
+and the template files
+
+Do not edit any other files exept index.php and the ones listed
+above
+
+Remember, keep the copyright :)
+
+Jordan Hughes
+ www.sufr.us
+PHP/HTML/CSS
